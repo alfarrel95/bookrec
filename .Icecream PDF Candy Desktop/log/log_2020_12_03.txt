@@ -1,0 +1,72 @@
+
+
+------------------------------------------------------------
+Application started
+13:45:28 (I) 12604: ice.core.systeminfo      : OS version: "Windows 10"
+13:45:28 (I) 12604: ice.core.systeminfo      : CPU architecture: "x86_64"
+13:45:28 (I) 12604: ice.core.systeminfo      : Build ABI: "i386-little_endian-ilp32"
+13:45:28 (I) 12604: ice.core.systeminfo      : Executable: "D:/Program Files/PDF Candy Desktop/pdfcandydt.exe"
+13:45:28 (I) 12604: ice.core.systeminfo      : Version: "2.90"
+13:45:28 (I) 12604: ice.core.systeminfo      : PID: 11836
+13:45:28 (I) 12604: ice.core.systeminfo      : Main thread id: 12604
+13:45:29 (D) 12604:                          : LicenseService::licenseFile()                     : License full path: "C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+13:45:29 (!) 12604:                          : LicenseService::loadLicenseInfo()                 : "License file not found: C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+13:45:30 (D) 12604:                          : DebenuPDFLibraryDLLQt1212::DebenuPDFLibraryDLLQt12: MP:  IS NULL: false
+13:45:30 (D) 12604: ice.core.updater         : IceUpdateChecker::IceUpdateChecker()              : Instance created
+13:45:30 (D) 12604: candy.application        : Application::sendRunMertrics()                    :  is frun false
+13:45:31 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:45:33 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:45:38 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:45:43 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:45:48 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:45:53 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:45:56 (D) 12604:                          : MultiplePdfFilesLogic::onImportFilesFinished()    : void __thiscall MultiplePdfFilesLogic::onImportFilesFinished(const class QList<struct DocInfo> &)
+13:45:56 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:45:58 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:03 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:08 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:13 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:18 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:23 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:28 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:33 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:38 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:43 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:48 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:53 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:46:58 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:03 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:08 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:13 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:18 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:23 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:28 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:33 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:38 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:43 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:48 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:53 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:56 (D) 12604:                          : CandyWorker::onStateChanged()                     : "State:1"
+13:47:56 (D) 12604:                          : CandyWorker::onStateChanged()                     : "State:2"
+13:47:56 (D) 12604:                          : CandyMetricsBuilder::metricsForWorker()           : WF: "merge"  ADD: ""
+13:47:56 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:47:58 (D) 12604:                          : CandyWorker::onStateChanged()                     : "State:0"
+13:47:58 (D) 12604:                          : CandyWorker::onFinished()                         : ELAPSED: 1726
+13:47:58 (D) 12604:                          : CandyWorker::onFinished()                         : "Exit Code:0. Exit status:Normal"
+13:47:58 (W) 12604:                          : QWindowsWindow::setGeometry: Unable to set geometry 424x136+1094+587 on QWidgetWindow/'MsgBoxWindow'. Resulting geometry:  424x157+1094+587 (frame: 0, 0, 0, 0, custom margin: 0, 0, 0, 0, minimum size: 400x100, maximum size: 16777215x16777215).
+13:47:58 (W) 12604:                          : QWindowsWindow::setGeometry: Unable to set geometry 424x136+932+534 on QWidgetWindow/'MsgBoxWindow'. Resulting geometry:  424x157+932+534 (frame: 0, 0, 0, 0, custom margin: 0, 0, 0, 0, minimum size: 400x100, maximum size: 16777215x16777215).
+13:47:58 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:00 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:03 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:08 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:13 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:18 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:23 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:28 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:33 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:38 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:43 (W) 12604:                          : MetricSender::sendNext::lambda()                  : Send analitics failed: "Host data.icecreamapps.com not found"
+13:48:45 (D) 12604:                          : DebenuService::~DebenuService()                   : __thiscall DebenuService::~DebenuService(void)
+13:48:45 (D) 12604: candy.application        : Application::~Application()                       : Instance destroyed
+13:48:45 (I) 12604: ice.core.application     : IceApplication::~IceApplication()                 : App is finished normally.
+13:48:45 (D) 12604: ice.core.updater         : IceUpdateChecker::~IceUpdateChecker()             : Instance destroyed

@@ -1,0 +1,40 @@
+
+
+------------------------------------------------------------
+Application started
+15:31:18 (I) 20016: ice.core.systeminfo      : OS version: "Windows 10"
+15:31:18 (I) 20016: ice.core.systeminfo      : CPU architecture: "x86_64"
+15:31:18 (I) 20016: ice.core.systeminfo      : Build ABI: "i386-little_endian-ilp32"
+15:31:18 (I) 20016: ice.core.systeminfo      : Executable: "D:/Program Files/PDF Candy Desktop/pdfcandydt.exe"
+15:31:18 (I) 20016: ice.core.systeminfo      : Version: "2.90"
+15:31:18 (I) 20016: ice.core.systeminfo      : PID: 16348
+15:31:18 (I) 20016: ice.core.systeminfo      : Main thread id: 20016
+15:31:19 (D) 20016:                          : LicenseService::licenseFile()                     : License full path: "C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+15:31:19 (!) 20016:                          : LicenseService::loadLicenseInfo()                 : "License file not found: C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+15:31:19 (D) 20016:                          : DebenuPDFLibraryDLLQt1212::DebenuPDFLibraryDLLQt12: MP:  IS NULL: false
+15:31:19 (D) 20016: ice.core.updater         : IceUpdateChecker::IceUpdateChecker()              : Instance created
+15:31:19 (D) 20016: candy.application        : Application::sendRunMertrics()                    :  is frun false
+15:31:51 (W) 20016:                          : Ui::mainWindowDevicePixelRatio()                  : 1
+15:31:51 (D) 20016: ice.core.application     : IceUi::lockUi()                                   : UI is locked
+15:31:51 (D) 20016: ice.core.application     : IceUi::unlockUi()                                 : UI is unlocked
+15:32:02 (W) 20016:                          : Ui::mainWindowDevicePixelRatio()                  : 1
+15:32:02 (D) 20016: ice.core.application     : IceUi::lockUi()                                   : UI is locked
+15:32:03 (D) 20016: ice.core.application     : IceUi::unlockUi()                                 : UI is unlocked
+15:32:43 (W) 20016:                          : Ui::mainWindowDevicePixelRatio()                  : 1
+15:32:43 (D) 20016: ice.core.application     : IceUi::lockUi()                                   : UI is locked
+15:32:43 (D) 20016: ice.core.application     : IceUi::unlockUi()                                 : UI is unlocked
+15:35:33 (D) 20016:                          : CandyWorker::onStateChanged()                     : "State:1"
+15:35:33 (D) 20016:                          : CandyWorker::onStateChanged()                     : "State:2"
+15:35:33 (D) 20016:                          : CandyMetricsBuilder::metricsForWorker()           : WF: "splitrange"  ADD: ""
+15:35:35 (D) 20016:                          : CandyWorker::onStateChanged()                     : "State:0"
+15:35:35 (D) 20016:                          : CandyWorker::onFinished()                         : ELAPSED: 2114
+15:35:35 (D) 20016:                          : CandyWorker::onFinished()                         : "Exit Code:0. Exit status:Normal"
+15:35:35 (W) 20016:                          : QWindowsWindow::setGeometry: Unable to set geometry 424x136+953+425 on QWidgetWindow/'MsgBoxWindow'. Resulting geometry:  424x157+953+425 (frame: 0, 0, 0, 0, custom margin: 0, 0, 0, 0, minimum size: 400x100, maximum size: 16777215x16777215).
+15:35:35 (W) 20016:                          : QWindowsWindow::setGeometry: Unable to set geometry 424x136+791+372 on QWidgetWindow/'MsgBoxWindow'. Resulting geometry:  424x157+791+372 (frame: 0, 0, 0, 0, custom margin: 0, 0, 0, 0, minimum size: 400x100, maximum size: 16777215x16777215).
+15:35:50 (W) 20016:                          : Ui::mainWindowDevicePixelRatio()                  : 1
+15:35:50 (D) 20016: ice.core.application     : IceUi::lockUi()                                   : UI is locked
+15:35:50 (D) 20016: ice.core.application     : IceUi::unlockUi()                                 : UI is unlocked
+15:43:00 (D) 20016:                          : DebenuService::~DebenuService()                   : __thiscall DebenuService::~DebenuService(void)
+15:43:00 (D) 20016: candy.application        : Application::~Application()                       : Instance destroyed
+15:43:00 (I) 20016: ice.core.application     : IceApplication::~IceApplication()                 : App is finished normally.
+15:43:00 (D) 20016: ice.core.updater         : IceUpdateChecker::~IceUpdateChecker()             : Instance destroyed

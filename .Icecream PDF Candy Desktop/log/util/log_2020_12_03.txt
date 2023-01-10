@@ -1,0 +1,109 @@
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Request data:'{
+    "files": [
+        {
+            "file": "D:\\Colleg\\Important Files\\File Scan Blanko\\Blanko smt. 1.pdf",
+            "order": 0,
+            "password": "",
+            "ranges": [
+                {
+                    "from": 1,
+                    "to": 1
+                }
+            ]
+        },
+        {
+            "file": "D:\\Colleg\\Important Files\\File Scan Blanko\\Blanko smt. 2.pdf",
+            "order": 1,
+            "password": "",
+            "ranges": [
+                {
+                    "from": 1,
+                    "to": 1
+                }
+            ]
+        },
+        {
+            "file": "D:\\Colleg\\Important Files\\File Scan Blanko\\Blanko smt. 3.pdf",
+            "order": 2,
+            "password": "",
+            "ranges": [
+                {
+                    "from": 1,
+                    "to": 1
+                }
+            ]
+        },
+        {
+            "file": "D:\\Colleg\\Important Files\\File Scan Blanko\\Blanko smt. 4.pdf",
+            "order": 3,
+            "password": "",
+            "ranges": [
+                {
+                    "from": 1,
+                    "to": 1
+                }
+            ]
+        },
+        {
+            "file": "D:\\Colleg\\Important Files\\File Scan Blanko\\Blanko smt. 5.pdf",
+            "order": 4,
+            "password": "",
+            "ranges": [
+                {
+                    "from": 1,
+                    "to": 1
+                }
+            ]
+        }
+    ],
+    "metrics": {
+        "files_count": "5",
+        "folder": "4",
+        "pages": "1",
+        "workflow": "merge"
+    },
+    "permissions": {
+        "permission_add_notes": true,
+        "permission_assembly": true,
+        "permission_change": true,
+        "permission_copy": true,
+        "permission_fill_fields": true,
+        "permission_print": true,
+        "permission_print_full": true
+    },
+    "properties": {
+        "property_author": "PDF Candy Desktop",
+        "property_creation_date": "",
+        "property_creator": "PDF Candy Desktop",
+        "property_keywords": "",
+        "property_mode_date": "",
+        "property_password": "",
+        "property_producer": "PDF Candy Desktop 2.90",
+        "property_subject": "",
+        "property_title": ""
+    },
+    "save_file_name": "D:\\Colleg\\Important Files\\File Scan Blanko\\Alvin Nur Adnan_Sarmag2018.pdf",
+    "sign": "2671f06fb8f07e49996a7d6563b31be92a002127bcd98cd941d2f5ff1b0baf8b"
+}
+'
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #1 (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #2 (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #3 (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #4 val: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #5 val: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #6 (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #7 (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #9 (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #10 (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Progress: 0%
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Progress: 0%
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Progress: 0%
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Progress: 0%
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:57] DEBUG: Progress: 0%
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:58] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:58] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[869af6220d7549478dde0d7e8301ccad][1.1.1][Unknown OS][32bit][13:47:58] DEBUG: Write response [OK]

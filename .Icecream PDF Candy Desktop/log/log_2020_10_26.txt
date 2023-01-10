@@ -1,0 +1,24 @@
+
+
+------------------------------------------------------------
+Application started
+22:18:21 (I) 12104: ice.core.systeminfo      : OS version: "Windows 10"
+22:18:21 (I) 12104: ice.core.systeminfo      : CPU architecture: "x86_64"
+22:18:21 (I) 12104: ice.core.systeminfo      : Build ABI: "i386-little_endian-ilp32"
+22:18:21 (I) 12104: ice.core.systeminfo      : Executable: "C:/Program Files (x86)/PDF Candy Desktop/pdfcandydt.exe"
+22:18:21 (I) 12104: ice.core.systeminfo      : Version: "2.90"
+22:18:21 (I) 12104: ice.core.systeminfo      : PID: 2380
+22:18:21 (I) 12104: ice.core.systeminfo      : Main thread id: 12104
+22:18:21 (W) 12104:                          : IceApplication::retranslateApplication()          : "en"
+22:18:22 (D) 12104:                          : LicenseService::licenseFile()                     : License full path: "C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+22:18:22 (!) 12104:                          : LicenseService::loadLicenseInfo()                 : "License file not found: C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+22:18:22 (D) 12104:                          : DebenuPDFLibraryDLLQt1212::DebenuPDFLibraryDLLQt12: MP:  IS NULL: false
+22:18:22 (D) 12104: ice.core.updater         : IceUpdateChecker::IceUpdateChecker()              : Instance created
+22:18:22 (D) 12104: candy.application        : Application::sendRunMertrics()                    :  is frun true
+22:18:22 (D) 12104:                          : monitor::GetRawMonitorDpiAtPoint()                : DPI: 144
+22:18:27 (D) 12104: ice.core.updater         : IceUpdateChecker::checkForUpdates()               : Get actual version number from "http://updates.icecreamapps.com/check.php?ver=2.90&pid=14&mh=00d58b3f7e25e652c92477a5927af2d8&h=e8677f2bad7fd4c0d3d5ead435413436"
+22:18:29 (W) 12104: ice.core.updater         : IceUpdateChecker::Private::onReplyFinished()      : Update checker reply error: "Host updates.icecreamapps.com not found"
+22:18:59 (D) 12104:                          : DebenuService::~DebenuService()                   : __thiscall DebenuService::~DebenuService(void)
+22:18:59 (D) 12104: candy.application        : Application::~Application()                       : Instance destroyed
+22:19:00 (I) 12104: ice.core.application     : IceApplication::~IceApplication()                 : App is finished normally.
+22:19:00 (D) 12104: ice.core.updater         : IceUpdateChecker::~IceUpdateChecker()             : Instance destroyed

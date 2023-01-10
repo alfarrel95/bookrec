@@ -1,0 +1,326 @@
+[2020-10-22 22:48:13.143] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::246::Helper process started
+[2020-10-22 22:48:13.150] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-10-22 22:48:36.239] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.create_account.failed
+[2020-10-22 22:48:36.240] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::399::ledger_create_account_failed
+[2020-10-22 22:48:36.275] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-10-22 22:48:36.283] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1150
+[2020-10-22 22:48:36.284] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::449::Running io_context
+[2020-10-22 22:48:36.284] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-10-22 22:48:36.284] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-10-22 22:48:48.212] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\airdrop.cpp::43::Invalid Response status returned from Airdrop service false
+[2020-10-22 22:48:48.212] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\hashcash_client.cpp::117::Airdrop request failed false
+[2020-11-05 16:36:46.444] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::247::Helper process started
+[2020-11-05 16:36:46.447] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-11-05 16:36:54.537] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.create_account.success
+[2020-11-05 16:36:54.537] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::394::ledger_create_account_success
+[2020-11-05 16:36:54.572] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-11-05 16:36:54.588] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1198
+[2020-11-05 16:36:54.588] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-11-05 16:36:54.588] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::452::Running io_context
+[2020-11-05 16:36:54.589] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-11-05 16:36:56.009] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-11-05 16:36:56.009] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::754::ledger_confirm_bal
+[2020-11-05 16:37:41.444] [logger] [warning] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\trongrid_client.cpp:: 483:: get account - data is empty or null - {"data":[],"success":true,"meta":{"at":1604569061346,"page_size":1}} retry 1 of 3
+[2020-11-13 20:54:05.332] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::247::Helper process started
+[2020-11-13 20:54:05.342] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-11-13 20:54:06.206] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-11-13 20:54:06.213] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1198
+[2020-11-13 20:54:06.214] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::452::Running io_context
+[2020-11-13 20:54:06.214] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-11-13 20:54:06.215] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-11-13 20:54:16.274] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-11-13 20:54:16.274] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::754::ledger_confirm_bal
+[2020-11-27 17:46:37.869] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::247::Helper process started
+[2020-11-27 17:46:37.872] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-11-27 17:46:37.958] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-11-27 17:46:37.978] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1198
+[2020-11-27 17:46:37.980] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::452::Running io_context
+[2020-11-27 17:46:37.981] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-11-27 17:46:37.987] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-11-27 17:46:39.629] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-11-27 17:46:39.629] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::754::ledger_confirm_bal
+[2020-12-02 00:23:09.756] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::247::Helper process started
+[2020-12-02 00:23:09.760] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-12-02 00:23:09.926] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-12-02 00:23:09.955] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1198
+[2020-12-02 00:23:09.956] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-12-02 00:23:09.957] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::452::Running io_context
+[2020-12-02 00:23:09.959] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-12-02 00:23:11.645] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-12-02 00:23:11.645] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::754::ledger_confirm_bal
+[2020-12-02 01:23:09.927] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: contention_report
+[2020-12-15 09:46:33.883] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::247::Helper process started
+[2020-12-15 09:46:33.888] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-12-15 09:46:34.084] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-12-15 09:46:34.111] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1198
+[2020-12-15 09:46:34.112] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-12-15 09:46:34.112] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::452::Running io_context
+[2020-12-15 09:46:34.113] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-12-15 09:46:39.593] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-12-15 09:46:39.593] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::754::ledger_confirm_bal
+[2020-12-27 00:51:32.379] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::249::Helper process started
+[2020-12-27 00:51:32.382] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-12-27 00:51:32.591] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-12-27 00:51:32.666] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1269
+[2020-12-27 00:51:32.667] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::459::Running io_context
+[2020-12-27 00:51:32.667] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-12-27 00:51:32.667] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2020-12-27 00:51:32.669] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-12-27 00:51:34.923] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2020-12-27 00:51:35.441] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-12-27 00:51:35.442] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2020-12-28 20:03:57.560] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::249::Helper process started
+[2020-12-28 20:03:57.566] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-12-28 20:03:57.720] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-12-28 20:03:57.810] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1269
+[2020-12-28 20:03:57.811] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::459::Running io_context
+[2020-12-28 20:03:57.812] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2020-12-28 20:03:57.812] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-12-28 20:03:57.814] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-12-28 20:04:00.606] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2020-12-28 20:04:00.997] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-12-28 20:04:00.998] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-01-07 14:46:53.942] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::249::Helper process started
+[2021-01-07 14:46:53.945] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2021-01-07 14:46:54.036] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2021-01-07 14:46:54.103] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1269
+[2021-01-07 14:46:54.104] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::459::Running io_context
+[2021-01-07 14:46:54.104] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2021-01-07 14:46:54.104] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-01-07 14:46:54.106] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2021-01-07 14:46:56.322] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-01-07 14:46:56.607] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2021-01-07 14:46:56.608] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-01-07 17:14:39.335] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::249::Helper process started
+[2021-01-07 17:14:39.337] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2021-01-07 17:14:39.391] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2021-01-07 17:14:39.438] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1269
+[2021-01-07 17:14:39.438] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2021-01-07 17:14:39.438] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::459::Running io_context
+[2021-01-07 17:14:39.438] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-01-07 17:14:39.439] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2021-01-07 17:14:43.014] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2021-01-07 17:14:43.014] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-01-07 17:14:49.625] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-01-07 18:14:39.436] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: contention_report
+[2021-01-07 18:14:39.436] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bidders_report
+[2021-01-07 19:14:39.442] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: contention_report
+[2021-01-07 19:14:39.442] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bidders_report
+[2021-01-16 04:28:34.140] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::310::Helper process started
+[2021-01-16 04:28:34.141] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.launched
+[2021-01-16 04:28:34.238] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.ledger_init
+[2021-01-16 04:28:34.268] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-01-16 04:28:34.289] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: cfu.helper.1327
+[2021-01-16 04:28:34.290] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::521::Running io_context
+[2021-01-16 04:28:34.290] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.enter_event_loop
+[2021-01-16 04:28:34.290] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: bt_con.handshake
+[2021-01-16 04:28:37.074] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-01-16 04:28:37.873] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: ledger.confirm_balance
+[2021-01-16 04:28:37.873] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-02-01 17:09:01.359] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::310::Helper process started
+[2021-02-01 17:09:01.362] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.launched
+[2021-02-01 17:09:01.432] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.ledger_init
+[2021-02-01 17:09:01.462] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-02-01 17:09:01.483] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: cfu.helper.1327
+[2021-02-01 17:09:01.484] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.enter_event_loop
+[2021-02-01 17:09:01.484] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::521::Running io_context
+[2021-02-01 17:09:01.484] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: bt_con.handshake
+[2021-02-01 17:09:04.543] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-02-01 17:09:04.881] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: ledger.confirm_balance
+[2021-02-01 17:09:04.881] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-02-07 00:48:39.401] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::310::Helper process started
+[2021-02-07 00:48:39.404] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.launched
+[2021-02-07 00:48:39.553] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.ledger_init
+[2021-02-07 00:48:39.606] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-02-07 00:48:39.651] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: cfu.helper.1327
+[2021-02-07 00:48:39.652] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::521::Running io_context
+[2021-02-07 00:48:39.652] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.enter_event_loop
+[2021-02-07 00:48:39.653] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: bt_con.handshake
+[2021-02-07 00:48:41.404] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-02-07 00:48:41.783] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: ledger.confirm_balance
+[2021-02-07 00:48:41.784] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-02-07 01:48:39.622] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: contention_report
+[2021-02-07 02:48:39.634] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: contention_report
+[2021-02-10 04:13:26.217] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::310::Helper process started
+[2021-02-10 04:13:26.220] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.launched
+[2021-02-10 04:13:26.362] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.ledger_init
+[2021-02-10 04:13:26.428] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-02-10 04:13:26.467] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: cfu.helper.1327
+[2021-02-10 04:13:26.468] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.enter_event_loop
+[2021-02-10 04:13:26.468] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::521::Running io_context
+[2021-02-10 04:13:26.468] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: bt_con.handshake
+[2021-02-10 04:13:28.743] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-02-10 04:13:29.117] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: ledger.confirm_balance
+[2021-02-10 04:13:29.118] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-02-14 05:12:58.751] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::310::Helper process started
+[2021-02-14 05:12:58.753] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.launched
+[2021-02-14 05:12:58.885] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.ledger_init
+[2021-02-14 05:12:58.942] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-02-14 05:12:58.973] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: cfu.helper.1327
+[2021-02-14 05:12:58.974] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::521::Running io_context
+[2021-02-14 05:12:58.974] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.enter_event_loop
+[2021-02-14 05:12:58.974] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: bt_con.handshake
+[2021-02-14 05:13:02.644] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-02-14 05:13:03.432] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: ledger.confirm_balance
+[2021-02-14 05:13:03.433] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-02-15 04:10:26.298] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::310::Helper process started
+[2021-02-15 04:10:26.299] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.launched
+[2021-02-15 04:10:26.366] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.ledger_init
+[2021-02-15 04:10:26.402] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::968::get_email_info
+[2021-02-15 04:10:26.419] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: cfu.helper.1327
+[2021-02-15 04:10:26.419] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: startup.enter_event_loop
+[2021-02-15 04:10:26.419] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::521::Running io_context
+[2021-02-15 04:10:26.420] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: bt_con.handshake
+[2021-02-15 04:10:31.374] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::916::handle_get_email_information. Status: 0
+[2021-02-15 04:10:31.878] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::532::Sending bench ping: ledger.confirm_balance
+[2021-02-15 04:10:31.878] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::878::ledger_confirm_bal
+[2021-04-08 03:23:09.697] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::335::Helper process started
+[2021-04-08 03:23:09.700] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-04-08 03:23:09.804] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-04-08 03:23:09.845] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1499
+[2021-04-08 03:23:09.846] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::546::Running io_context
+[2021-04-08 03:23:09.846] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-04-08 03:23:09.846] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-04-08 03:23:11.738] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::933::handle_get_email_information. Status: 0
+[2021-04-08 03:23:12.041] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: ledger.confirm_balance
+[2021-04-08 03:23:12.041] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::895::ledger_confirm_bal
+[2021-04-28 21:59:13.641] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::335::Helper process started
+[2021-04-28 21:59:13.643] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-04-28 21:59:13.721] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-04-28 21:59:13.755] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1499
+[2021-04-28 21:59:13.755] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::546::Running io_context
+[2021-04-28 21:59:13.755] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-04-28 21:59:13.755] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-04-28 21:59:16.809] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::933::handle_get_email_information. Status: 0
+[2021-04-28 21:59:17.128] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: ledger.confirm_balance
+[2021-04-28 21:59:17.128] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::895::ledger_confirm_bal
+[2021-12-29 18:13:06.261] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2021-12-29 18:13:06.263] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2021-12-29 18:13:06.327] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2021-12-29 18:13:06.358] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2021-12-29 18:13:06.359] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2021-12-29 18:13:06.359] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2021-12-29 18:13:06.359] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2021-12-29 18:13:07.621] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2021-12-29 18:13:07.916] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-12-29 18:13:07.916] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2021-12-30 00:13:07.255] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2021-12-30 00:13:07.257] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-04-28 23:17:02.231] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-04-28 23:17:02.233] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-04-28 23:17:02.297] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-04-28 23:17:02.322] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2022-04-28 23:17:02.323] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-04-28 23:17:02.323] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-04-28 23:17:02.323] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-04-28 23:17:07.284] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2022-04-28 23:17:08.274] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-04-28 23:17:08.274] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-05-28 17:21:00.668] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-05-28 17:21:00.671] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-05-28 17:21:00.789] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-05-28 17:21:00.827] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2022-05-28 17:21:00.828] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-05-28 17:21:00.828] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-05-28 17:21:00.828] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-05-28 17:21:02.761] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2022-05-28 17:21:03.045] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-05-28 17:21:03.046] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-05-28 18:21:00.828] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: contention_report
+[2022-05-28 18:21:00.829] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bidders_report
+[2022-05-28 19:21:00.838] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: contention_report
+[2022-05-28 19:21:00.838] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bidders_report
+[2022-05-28 20:34:18.994] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-05-28 20:34:18.996] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-05-28 20:34:19.086] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-05-28 20:34:19.133] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.1957
+[2022-05-28 20:34:19.133] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-05-28 20:34:19.134] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-05-28 20:34:19.134] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-05-28 20:34:20.394] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1200::FAILED: handle_get_email_information. Status: -5
+[2022-05-28 20:34:20.690] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-05-28 20:34:20.690] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1167::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-05-29 14:51:05.559] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-05-29 14:51:05.561] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-05-29 14:51:05.636] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-05-29 14:51:05.698] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-05-29 14:51:05.698] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-05-29 14:51:05.698] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-05-29 14:51:05.698] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-05-29 14:51:09.121] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-05-29 14:51:09.813] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-05-29 14:51:09.813] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-05-29 15:51:05.692] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: contention_report
+[2022-05-29 15:51:05.692] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bidders_report
+[2022-05-29 16:51:05.707] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: contention_report
+[2022-05-29 16:51:05.707] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bidders_report
+[2022-05-30 14:24:26.824] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-05-30 14:24:26.826] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-05-30 14:24:26.888] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-05-30 14:24:26.912] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-05-30 14:24:26.912] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-05-30 14:24:26.912] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-05-30 14:24:26.912] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-05-30 14:24:28.181] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-05-30 14:24:28.472] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-05-30 14:24:28.472] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-05-30 15:07:49.279] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-05-30 15:07:49.280] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-05-30 15:07:49.324] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-05-30 15:07:49.366] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-05-30 15:07:49.366] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-05-30 15:07:49.366] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-05-30 15:07:49.367] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-05-30 15:07:50.659] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-05-30 15:07:50.956] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-05-30 15:07:50.956] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-05-30 17:21:31.391] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-05-30 17:21:31.393] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-05-30 17:21:31.459] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-05-30 17:21:31.526] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-05-30 17:21:31.527] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-05-30 17:21:31.527] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-05-30 17:21:31.527] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-05-30 17:21:32.643] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-05-30 17:21:32.933] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-05-30 17:21:32.933] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-06-01 19:48:59.616] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-06-01 19:48:59.620] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-06-01 19:48:59.776] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-06-01 19:48:59.832] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-06-01 19:48:59.832] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-06-01 19:48:59.832] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-06-01 19:48:59.833] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-06-01 19:49:04.509] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-06-01 19:49:04.817] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-06-01 19:49:04.817] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-06-16 02:10:13.969] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-06-16 02:10:13.972] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-06-16 02:10:14.032] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-06-16 02:10:14.065] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-06-16 02:10:14.065] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-06-16 02:10:14.065] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-06-16 02:10:14.066] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-06-16 02:10:15.578] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-06-16 02:10:15.618] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-06-16 02:10:15.618] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-07-04 13:56:36.468] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-07-04 13:56:36.472] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-07-04 13:56:36.560] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-07-04 13:56:36.605] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-07-04 13:56:36.606] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-07-04 13:56:36.606] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-07-04 13:56:36.606] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-07-04 13:56:39.407] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-07-04 13:56:39.407] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-07-04 13:56:39.407] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0
+[2022-07-04 14:13:20.968] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::355::Helper process started
+[2022-07-04 14:13:20.970] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.launched
+[2022-07-04 14:13:21.059] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.ledger_init
+[2022-07-04 14:13:21.103] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: cfu.helper.2372
+[2022-07-04 14:13:21.103] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::611::Running io_context
+[2022-07-04 14:13:21.103] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: startup.enter_event_loop
+[2022-07-04 14:13:21.104] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: bt_con.handshake
+[2022-07-04 14:13:24.099] [logger] [error] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1201::FAILED: handle_get_email_information. Status: -5
+[2022-07-04 14:13:24.784] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::529::Sending bench ping: adjust_balance.confirmed
+[2022-07-04 14:13:24.784] [logger] [info] D:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::1168::adjust_balance_confirmed. Balance remains unchanged: 0

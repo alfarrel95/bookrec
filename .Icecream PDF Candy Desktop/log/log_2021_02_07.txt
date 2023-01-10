@@ -1,0 +1,20 @@
+
+
+------------------------------------------------------------
+Application started
+05:20:57 (I) 18640: ice.core.systeminfo      : OS version: "Windows 10"
+05:20:57 (I) 18640: ice.core.systeminfo      : CPU architecture: "x86_64"
+05:20:57 (I) 18640: ice.core.systeminfo      : Build ABI: "i386-little_endian-ilp32"
+05:20:57 (I) 18640: ice.core.systeminfo      : Executable: "D:/Program Files/PDF Candy Desktop/pdfcandydt.exe"
+05:20:57 (I) 18640: ice.core.systeminfo      : Version: "2.90"
+05:20:57 (I) 18640: ice.core.systeminfo      : PID: 9068
+05:20:57 (I) 18640: ice.core.systeminfo      : Main thread id: 18640
+05:20:58 (D) 18640:                          : LicenseService::licenseFile()                     : License full path: "C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+05:20:58 (!) 18640:                          : LicenseService::loadLicenseInfo()                 : "License file not found: C:\\Users\\lenovo\\AppData\\Local\\Icecream\\Icecream PDF Candy Desktop\\license.lic"
+05:20:58 (D) 18640:                          : DebenuPDFLibraryDLLQt1212::DebenuPDFLibraryDLLQt12: MP:  IS NULL: false
+05:20:58 (D) 18640: ice.core.updater         : IceUpdateChecker::IceUpdateChecker()              : Instance created
+05:20:58 (D) 18640: candy.application        : Application::sendRunMertrics()                    :  is frun false
+05:21:39 (D) 18640:                          : DebenuService::~DebenuService()                   : __thiscall DebenuService::~DebenuService(void)
+05:21:39 (D) 18640: candy.application        : Application::~Application()                       : Instance destroyed
+05:21:39 (I) 18640: ice.core.application     : IceApplication::~IceApplication()                 : App is finished normally.
+05:21:39 (D) 18640: ice.core.updater         : IceUpdateChecker::~IceUpdateChecker()             : Instance destroyed

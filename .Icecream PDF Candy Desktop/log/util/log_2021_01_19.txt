@@ -1,0 +1,60 @@
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Request data:'{
+    "file": "D:/Colleg/_Smt. 5/6】Perancangan dan Analisis Algoritma/TUGAS AKHIR/Referensi/Algorithms illuminated Part 3 Greedy Algorithms and Dynamic Programming by Tim Roughgarden (z-lib.org).pdf",
+    "metrics": {
+        "files_count": "1",
+        "folder": "2",
+        "pages": "226",
+        "workflow": "splitrange"
+    },
+    "out_prefix": "[BASENAME]_p[PAGE]",
+    "password": "",
+    "permissions": {
+        "permission_add_notes": true,
+        "permission_assembly": true,
+        "permission_change": true,
+        "permission_copy": true,
+        "permission_fill_fields": true,
+        "permission_print": true,
+        "permission_print_full": true
+    },
+    "properties": {
+        "property_author": "PDF Candy Desktop",
+        "property_creation_date": "",
+        "property_creator": "PDF Candy Desktop",
+        "property_keywords": "",
+        "property_mode_date": "",
+        "property_password": "",
+        "property_producer": "PDF Candy Desktop 2.90",
+        "property_subject": "",
+        "property_title": ""
+    },
+    "ranges": [
+        {
+            "from": 1,
+            "to": 111
+        },
+        {
+            "from": 113,
+            "to": 140
+        },
+        {
+            "from": 143,
+            "to": 226
+        }
+    ],
+    "sign": "4a876ec92874c55e682baa2c414aca548f26b1e2861379361ac2bd24094a1c4c"
+}
+'
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #1 (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #2 (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #3 (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #4 val: true (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #5 val: true (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #6 (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #7 (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #9 (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:33] DEBUG: Debug: struct Permissions __thiscall DebenuDocumentPropertySetter::readPermissions(class QJsonObject &) #10 (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:34] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:34] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:35] DEBUG: Debug: SRC_PERMISSIONS: print true  copy: true (:0, )
+[1b85afb146194a5081b230061f8c6337][1.1.1][Unknown OS][32bit][15:35:35] DEBUG: Write response [OK]

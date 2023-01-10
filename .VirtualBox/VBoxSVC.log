@@ -1,0 +1,48 @@
+00:00:00.004026 main     VirtualBox COM Server 6.0.24 r139119 win.amd64 (Jul  9 2020 19:37:22) release log
+00:00:00.004029 main     Log opened 2021-07-09T04:40:38.472967900Z
+00:00:00.004029 main     Build Type: release
+00:00:00.004033 main     OS Product: Windows 10
+00:00:00.004035 main     OS Release: 10.0.19041
+00:00:00.004035 main     OS Service Pack: 
+00:00:00.062659 main     DMI Product Name: 81WD
+00:00:00.072478 main     DMI Product Version: IdeaPad 3 14IIL05
+00:00:00.072487 main     Host RAM: 7934MB (7.7GB) total, 3131MB (3.0GB) available
+00:00:00.072493 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.072493 main     Process ID: 11648
+00:00:00.072494 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.138904          VirtualBox: object creation starts
+00:00:00.140169          Home directory: 'C:\Users\lenovo\.VirtualBox'
+00:00:00.140668          Installed Drivers:
+00:00:00.144388            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.24.39119)
+00:00:00.144704            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.24.39119)
+00:00:00.145003            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.24.39119)
+00:00:00.145391            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.24.39119)
+00:00:00.158002          Loading settings file "C:\Users\lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.164247          Getting USB descriptor (id 0) failed with error 31
+00:00:00.164312          Getting USB descriptor (id 0) failed with error 31
+00:00:00.168409          USB: Unknown USB device detected (idVendor: 0x5986, idProduct: 0x1135)
+00:00:00.168439          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0aaa)
+00:00:00.312814          HostDnsMonitor: initializing
+00:00:00.321772          HostDnsMonitor: updating information
+00:00:00.322138          HostDnsMonitor: old information
+00:00:00.322139            no server entries
+00:00:00.322141            no domain set
+00:00:00.322141            no search string entries
+00:00:00.322142          HostDnsMonitor: new information
+00:00:00.322142            server 1: 192.168.229.140
+00:00:00.322144            no domain set
+00:00:00.322144            no search string entries
+00:00:00.395816          VD: VDInit finished with VINF_SUCCESS
+00:00:00.415923          Loading settings file "C:\Users\lenovo\VirtualBox VMs\Debian Server\Debian Server.vbox" with version "1.16-windows"
+00:00:00.421634          VirtualBox: object created
+00:00:04.011339          Saving settings file "C:\Users\lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:04.031833          Saving settings file "C:\Users\lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:09.339337          Saving settings file "C:\Users\lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:09.386349          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:11.593655          Saving settings file "C:\Users\lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.601991          Saving settings file "C:\Users\lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:17.162519 main     VirtualBox: object deletion starts
+00:00:17.163958 main     HostDnsMonitor: shutting down ...
+00:00:17.164068 main     HostDnsMonitor: shut down
+00:00:17.168861 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:17.169205 main     VirtualBox: object deleted
